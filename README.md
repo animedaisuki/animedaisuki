@@ -3,22 +3,23 @@
 
 - 👋 Hi, my name is AnimeDaisuki
 - 😄 Pronouns: He/Him
-- 🎓 I'm currently studying at The University of Queensland with a major in Computer Science. (Expected graduation: Dec. 2024)
-- 🎯 I'm currently looking for internship opportunities in software engineering and data science.
-- 🌱 I'm currently expanding my skills in Python, Java, JavaScript, and learning more about machine learning and computer vision.
-- 🔭 My current projects involve developing web applications using Django, Express.js and other full-stack technologies.
-- 📚 I have previously interned at Singapore-based startups. I have also worked under professors from my undergrad institute on various topics in AI research.
+- 🎓 I've gradutaed from The University of Queensland with a major in information technology.
+- 🎯 I'm currently looking for job opportunities in full-stack and frontend development..
+- 🌱 I'm currently expanding my skills in JavaScript, Python, Java, and learning more about machine learning and computer vision.
+- 🔭 My current projects involve developing web applications using React.js, Express.js and other full-stack technologies.
+- 📚 I've worked at Jobpin, a company that uses AI to tailor resumes and mock interviews, aiming to optimally match job seekers and roles.
 - 💻 I hope to work at a diverse and mission-driven team in the space of intelligent software systems as an software engineer.
 - 💬 Ask me about EVERYTHING, if I know
 - 📫 How to reach me: Please email me at [s4594789@student.uq.edu.au](mailto:s4594789@student.uq.edu.au) or reach out on [LinkedIn](https://linkedin.com/in/anime-daisuki/)
 - 🎬 In my free time, I enjoy watching anime and reading manga.
 - 🏔 I enjoy discovering and listening to various genres of music and also trekking on new mountains.
+- 🚀 I'm a fast learner with a passion for learning, always eager to adapt and take on new challenges.
 
 ### Languages
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=oracle&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=007396)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
