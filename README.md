@@ -21,7 +21,7 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=oracle&logoColor=007396)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=007396)
-![PHP](https://img.shields.io/badge/-Php-000?&logo=Php&logoColor=00599C)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=00599C)
 ![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 
