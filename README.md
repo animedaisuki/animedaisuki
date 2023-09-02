@@ -62,7 +62,7 @@ The [Zombie Apocalypse](https://github.com/animedaisuki/Zombie-Apocalypse) progr
 ### 🏆 GitHub Profile Trophy:
 ---
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=AnimeDaisuki&column=8&theme=flat&no-frame=true&no-bg=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=AnimeDaisuki&column=8&theme=flat&no-frame=true&no-bg=true&&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET"/>
 </a>
 
 ### 📊 GitHub Stats:
@@ -74,8 +74,7 @@ The [Zombie Apocalypse](https://github.com/animedaisuki/Zombie-Apocalypse) progr
 ![AnimeDaisuki Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnimeDaisuki&theme=solarized_dark)
 
 <p>
-  <img height="186em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AnimeDaisuki&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox"/>
-  <img height="186em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AnimeDaisuki&hide=css,html,scss,less&langs_count=10&layout=compact&theme=gruvbox"/>
+  <img height="186em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AnimeDaisuki&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&theme=gruvbox"/>
+  <img height="186em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AnimeDaisuki&show_icons=true&theme=gruvbox&langs_count=20"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnimeDaisuki&show_icons=true&theme=vue-dark&langs_count=20&hide=scss,html)
