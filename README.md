@@ -1,7 +1,7 @@
-### Hi there 👋 I'm AnimeDaisuki
+### Hi there 👋 I'm Wendy
 ---
 
-- 👋 Hi, my name is AnimeDaisuki
+- 👋 Hi, my name is Wendy
 - 😄 Pronouns: He/Him
 - 🎓 I've gradutaed from The University of Queensland with a major in information technology.
 - 🎯 I'm currently looking for job opportunities in full-stack and frontend development..
