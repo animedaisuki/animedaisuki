@@ -11,7 +11,6 @@
 - 💻 I hope to work at a diverse and mission-driven team in the space of intelligent software systems as an software engineer.
 - 🚀 I'm a fast learner with a passion for learning, always eager to adapt and take on new challenges.
 - 💬 Ask me about EVERYTHING, if I know
-- 📫 How to reach me: Please email me at [chicheng.xu@outlook.com](mailto:chicheng.xu@outlook.com)
 
 ### Languages
 
