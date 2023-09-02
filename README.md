@@ -9,11 +9,9 @@
 - 🔭 My current projects involve developing web applications using React.js, Express.js and other full-stack technologies.
 - 📚 I've worked at Jobpin, a company that uses AI to tailor resumes and mock interviews, aiming to optimally match job seekers and roles.
 - 💻 I hope to work at a diverse and mission-driven team in the space of intelligent software systems as an software engineer.
-- 💬 Ask me about EVERYTHING, if I know
-- 📫 How to reach me: Please email me at [s4594789@student.uq.edu.au](mailto:s4594789@student.uq.edu.au) or reach out on [LinkedIn](https://linkedin.com/in/anime-daisuki/)
-- 🎬 In my free time, I enjoy watching anime and reading manga.
-- 🏔 I enjoy discovering and listening to various genres of music and also trekking on new mountains.
 - 🚀 I'm a fast learner with a passion for learning, always eager to adapt and take on new challenges.
+- 💬 Ask me about EVERYTHING, if I know
+- 📫 How to reach me: Please email me at [chicheng.xu@outlook.com](mailto:chicheng.xu@outlook.com)
 
 ### Languages
 
