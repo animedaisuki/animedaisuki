@@ -22,6 +22,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=00599C)
 ![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+![SASS](https://img.shields.io/badge/-SASS-000?&logo=SASS)
 
 ### Technologies
 
