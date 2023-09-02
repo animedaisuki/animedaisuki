@@ -4,8 +4,8 @@
 - 👋 Hi, my name is Wendy
 - 😄 Pronouns: He/Him
 - 🎓 I've gradutaed from The University of Queensland with a major in information technology.
-- 🎯 I'm currently looking for job opportunities in full-stack and frontend development..
-- 🌱 I'm currently expanding my skills in JavaScript, Python, Java, and learning more about machine learning and computer vision.
+- 🎯 I'm currently looking for job opportunities in full-stack and frontend development.
+- 🌱 I'm currently expanding my skills in JavaScript, Python, Java.
 - 🔭 My current projects involve developing web applications using React.js, Express.js and other full-stack technologies.
 - 📚 I've worked at Jobpin, a company that uses AI to tailor resumes and mock interviews, aiming to optimally match job seekers and roles.
 - 💻 I hope to work at a diverse and mission-driven team in the space of intelligent software systems as an software engineer.
