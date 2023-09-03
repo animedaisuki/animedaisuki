@@ -53,13 +53,13 @@ The [WebSocket server for Amahane Chat](https://github.com/animedaisuki/socket.a
 
 [Doctrina](https://github.com/animedaisuki/Doctrina) is a free education and teaching resource exchange website. It serves as a platform for educators to share and access teaching materials and resources.
 
-4. [🧟 **Zombie Apocalypse**](https://github.com/animedaisuki/Zombie-Apocalypse)
-
-The [Zombie Apocalypse](https://github.com/animedaisuki/Zombie-Apocalypse) program is a fun JavaScript project that simulates a 2D grid-based zombie apocalypse world. Movements of creatures and zombies are tracked and the final positions are output once all movements are complete.
-
-5. [✈️ **Air Traffic Control Simulator**](https://github.com/animedaisuki/Air-Traffic-Control-Simulator)
+4. [✈️ **Air Traffic Control Simulator**](https://github.com/animedaisuki/Air-Traffic-Control-Simulator)
 
 [Air Traffic Control Simulator](https://github.com/animedaisuki/Air-Traffic-Control-Simulator) is a Java-based simulation for Air Traffic Control (ATC) featuring queuing, terminal management, and event-based actions. Built with JavaFX and includes JUnit tests.
+
+5. [🧟 **Zombie Apocalypse**](https://github.com/animedaisuki/Zombie-Apocalypse)
+
+The [Zombie Apocalypse](https://github.com/animedaisuki/Zombie-Apocalypse) program is a fun JavaScript project that simulates a 2D grid-based zombie apocalypse world. Movements of creatures and zombies are tracked and the final positions are output once all movements are complete.
 
 ### 🏆 GitHub Profile Trophy:
 ---
