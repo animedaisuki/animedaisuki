@@ -59,13 +59,7 @@ The [Zombie Apocalypse](https://github.com/animedaisuki/Zombie-Apocalypse) progr
 
 5. [✈️ **Air Traffic Control Simulator**](https://github.com/animedaisuki/Air-Traffic-Control-Simulator)
 
-The [Air Traffic Control Simulator](https://github.com/animedaisuki/Air-Traffic-Control-Simulator) is a Java project aimed at simulating a basic Air Traffic Control (ATC) system. With a user-friendly GUI built using JavaFX, the system encompasses functionalities such as:
-- **Aircraft Queuing**: Support for landing and takeoff queues.
-- **Terminal Management**: Enhanced logic for gate assignments.
-- **Event-Based Actions**: Capabilities to declare and clear emergency states.
-- **Data Initialization**: Loaded from data files for a realistic simulation.
-- **Persistent Data**: Save and load the state of the simulation.
-- **Unit Tests**: Comprehensive JUnit 4 tests to ensure robustness.
+[Air Traffic Control Simulator](https://github.com/animedaisuki/Air-Traffic-Control-Simulator) is a Java-based simulation for Air Traffic Control (ATC) featuring queuing, terminal management, and event-based actions. Built with JavaFX and includes JUnit tests.
 
 ### 🏆 GitHub Profile Trophy:
 ---
