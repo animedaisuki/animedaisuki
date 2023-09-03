@@ -76,6 +76,3 @@ The [Zombie Apocalypse](https://github.com/animedaisuki/Zombie-Apocalypse) progr
 ![AnimeDaisuki Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnimeDaisuki&theme=solarized_dark)
 ![AnimeDaisuki Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnimeDaisuki&theme=solarized_dark)
 ![AnimeDaisuki Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnimeDaisuki&theme=solarized_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnimeDaisuki&show_icons=true&theme=vue-dark&langs_count=20&hide=scss,html)
-
