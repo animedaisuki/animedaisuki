@@ -40,6 +40,7 @@
 [![](https://img.shields.io/badge/-⚙️%20Amahane%20Chat%20WebSocket%20Server-000)](https://github.com/animedaisuki/socket.amahanechat)
 [![](https://img.shields.io/badge/-🎓%20Doctrina-000)](https://github.com/animedaisuki/Doctrina)
 [![](https://img.shields.io/badge/-✈️%20ATC%20Simulator-000)](https://github.com/animedaisuki/Air-Traffic-Control-Simulator)
+[![](https://img.shields.io/badge/-🗝️%20Key%20Cave%20Adventure%20Game-000)](https://github.com/animedaisuki/Zombie-Apocalypse)
 [![](https://img.shields.io/badge/-🧟%20Zombie%20Apocalypse-000)](https://github.com/animedaisuki/Zombie-Apocalypse)
 
 1. [🗨 **Amahane Chat**](https://github.com/animedaisuki/fe.jpchat)
@@ -58,7 +59,11 @@ The [WebSocket server for Amahane Chat](https://github.com/animedaisuki/socket.a
 
 [Air Traffic Control Simulator](https://github.com/animedaisuki/Air-Traffic-Control-Simulator) is a Java-based simulation for Air Traffic Control (ATC) featuring queuing, terminal management, and event-based actions. Built with JavaFX and includes JUnit tests.
 
-5. [🧟 **Zombie Apocalypse**](https://github.com/animedaisuki/Zombie-Apocalypse)
+5. [🗝️ **Key Cave Adventure Game**](https://github.com/animedaisuki/Key-Cave-Adventure-Game)
+
+The [Key Cave Adventure Game](https://github.com/animedaisuki/Key-Cave-Adventure-Game) program is a fun JavaScript project that simulates a 2D grid-based zombie apocalypse world. Movements of creatures and zombies are tracked and the final positions are output once all movements are complete.
+
+6. [🧟 **Zombie Apocalypse**](https://github.com/animedaisuki/Zombie-Apocalypse)
 
 The [Zombie Apocalypse](https://github.com/animedaisuki/Zombie-Apocalypse) program is a fun JavaScript project that simulates a 2D grid-based zombie apocalypse world. Movements of creatures and zombies are tracked and the final positions are output once all movements are complete.
 
