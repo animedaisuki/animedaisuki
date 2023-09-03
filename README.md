@@ -61,7 +61,7 @@ The [WebSocket server for Amahane Chat](https://github.com/animedaisuki/socket.a
 
 5. [🗝️ **Key Cave Adventure Game**](https://github.com/animedaisuki/Key-Cave-Adventure-Game)
 
-The [Key Cave Adventure Game](https://github.com/animedaisuki/Key-Cave-Adventure-Game) program is a fun JavaScript project that simulates a 2D grid-based zombie apocalypse world. Movements of creatures and zombies are tracked and the final positions are output once all movements are complete.
+The [Key Cave Adventure Game](https://github.com/animedaisuki/Key-Cave-Adventure-Game)  is a Python-based dungeon game featuring a Tkinter graphical interface. Your mission is to navigate a player through a mysterious cave to find a key and unlock the door, all within a limited number of moves.
 
 6. [🧟 **Zombie Apocalypse**](https://github.com/animedaisuki/Zombie-Apocalypse)
 
