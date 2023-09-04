@@ -15,6 +15,7 @@
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=oracle&logoColor=007396)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=00599C)
