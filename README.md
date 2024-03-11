@@ -14,7 +14,7 @@
 
 <img src="https://user-images.githubusercontent.com/56123405/177257029-97b74749-6158-42db-a3bc-c4f8f80db01c.png" align="right" width=200>
 
-- 👨‍💻 I am currently working on web3 and AI related project
+- 👨‍💻 I am currently working on Web3 and AI related project
 
 - 💬 Ask me about React, Nextjs, Nodejs, Redux, Graphql, Postgresql
 
