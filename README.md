@@ -1,85 +1,89 @@
-### Hi there 👋 I'm Wendy
----
+<h1 align="center">✨ Hello World! 🌏 I'm Wendy</h1>
+<h3 align="center">I am a Software Engineer & working as a Full Stack Developer.</h3>
 
-- 👋 Hi, my name is Wendy
-- 😄 Pronouns: He/Him
-- 🎓 I've gradutaed from The University of Queensland with a major in information technology.
-- 🎯 I'm currently looking for job opportunities in full-stack and frontend development.
-- 🌱 I'm currently expanding my skills in JavaScript, Python, Java.
-- 🔭 My current projects involve developing web applications using React.js, Express.js and other full-stack technologies.
-- 📚 I've worked at Jobpin, a company that uses AI to tailor resumes and mock interviews, aiming to optimally match job seekers and roles.
-- 💻 I hope to work at a diverse and mission-driven team in the space of intelligent software systems as an software engineer.
-- 🚀 I'm a fast learner with a passion for learning, always eager to adapt and take on new challenges.
-- 💬 Ask me about EVERYTHING, if I know
+<h3 align="center">Connect with me on:</h3>
 
-### Languages
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Java](https://img.shields.io/badge/-Java-000?&logo=oracle&logoColor=007396)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=007396)
-![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
-![SASS](https://img.shields.io/badge/-SASS-000?&logo=SASS)
-
-### Technologies
-
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-![SQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-
-### Current Projects
-
-[![](https://img.shields.io/badge/-🗨%20Amahane%20Chat-000)](https://github.com/animedaisuki/fe.jpchat)
-[![](https://img.shields.io/badge/-⚙️%20Amahane%20Chat%20WebSocket%20Server-000)](https://github.com/animedaisuki/socket.amahanechat)
-[![](https://img.shields.io/badge/-🎓%20Doctrina-000)](https://github.com/animedaisuki/Doctrina)
-[![](https://img.shields.io/badge/-✈️%20ATC%20Simulator-000)](https://github.com/animedaisuki/Air-Traffic-Control-Simulator)
-[![](https://img.shields.io/badge/-🗝️%20Key%20Cave%20Adventure%20Game-000)](https://github.com/animedaisuki/Zombie-Apocalypse)
-[![](https://img.shields.io/badge/-🧟%20Zombie%20Apocalypse-000)](https://github.com/animedaisuki/Zombie-Apocalypse)
-
-1. [🗨 **Amahane Chat**](https://github.com/animedaisuki/fe.jpchat)
-
-[Amahane Chat](https://github.com/animedaisuki/fe.jpchat) is an immersive chat platform designed for anime and manga enthusiasts. It features a unique Japanese-style animation design, with each user having their own AI cat girl companion named Chtholly, powered by Live2D technology and the ChatGPT-4 engine.
-
-2. [⚙️ **Amahane Chat WebSocket Server**](https://github.com/animedaisuki/socket.amahanechat)
-
-The [WebSocket server for Amahane Chat](https://github.com/animedaisuki/socket.amahanechat) handles real-time messaging and video call signaling, ensuring seamless and lag-free experience for the chat platform users.
-
-3. [🎓 **Doctrina**](https://github.com/animedaisuki/Doctrina)
-
-[Doctrina](https://github.com/animedaisuki/Doctrina) is a free education and teaching resource exchange website. It serves as a platform for educators to share and access teaching materials and resources.
-
-4. [✈️ **Air Traffic Control Simulator**](https://github.com/animedaisuki/Air-Traffic-Control-Simulator)
-
-[Air Traffic Control Simulator](https://github.com/animedaisuki/Air-Traffic-Control-Simulator) is a Java-based simulation for Air Traffic Control (ATC) featuring queuing, terminal management, and event-based actions. Built with JavaFX and includes JUnit tests.
-
-5. [🗝️ **Key Cave Adventure Game**](https://github.com/animedaisuki/Key-Cave-Adventure-Game)
-
-The [Key Cave Adventure Game](https://github.com/animedaisuki/Key-Cave-Adventure-Game)  is a Python-based dungeon game featuring a Tkinter graphical interface. Your mission is to navigate a player through a mysterious cave to find a key and unlock the door, all within a limited number of moves.
-
-6. [🧟 **Zombie Apocalypse**](https://github.com/animedaisuki/Zombie-Apocalypse)
-
-The [Zombie Apocalypse](https://github.com/animedaisuki/Zombie-Apocalypse) program is a fun JavaScript project that simulates a 2D grid-based zombie apocalypse world. Movements of creatures and zombies are tracked and the final positions are output once all movements are complete.
-
-### 🏆 GitHub Profile Trophy:
----
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=AnimeDaisuki&column=8&theme=flat&no-frame=true&no-bg=true&&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET"/>
-</a>
-
-### 📊 GitHub Stats:
----
-<p>
-  <img height="186em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AnimeDaisuki&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&theme=gruvbox"/>
+<p align="center">
+  <a href="https://www.chicheng.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/chicheng-xu/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-![AnimeDaisuki Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnimeDaisuki&theme=solarized_dark)
-![AnimeDaisuki Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnimeDaisuki&theme=solarized_dark)
-![AnimeDaisuki Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnimeDaisuki&theme=solarized_dark)
+---
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/56123405/177257029-97b74749-6158-42db-a3bc-c4f8f80db01c.png" align="right" width=200>
+
+- 👨‍💻 I am currently working on e-commerce related project
+
+- 💬 Ask me about React, Nextjs, Nodejs, Redux, Graphql, Postgresql
+
+- 🚀 Skilled in smart contract development with Foundry and Web3 frontend integration.
+
+- 📫 How to reach me **chicheng.xu@outlook.com**
+
+<br>
+
+---
+
+<br>
+
+<h3 align="left">Frontend Technologies</h3>
+<p align="left">
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/> </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/> </a>
+    <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/> </a>
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss"/> </a>
+  <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="mui"/> </a>
+</p>
+
+<h3 align="left">Backend Technologies</h3>
+<p align="left">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/> </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs"/> </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/nestjs-000000?style=for-the-badge&logo=nestjs&logoColor=red" alt="nestjs"/> </a>
+  <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql"/> </a>
+</p>
+
+<h3 align="left">Databases</h3>
+<p align="left">
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres"/> </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Redis-D3D3D3?style=for-the-badge&logo=redis&logoColor=red" alt="sqlite"/> </a>
+</p>
+
+<h3 align="left">Others</h3>
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/> </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/> </a>
+  <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku"/> </a>
+  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/> </a>
+  <a href="https://ethereum.org/en/developers/docs/apis/javascript/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="ethers.js"/> </a>
+</p>
+
+<h3 align="left">Certifications</h3>
+<p align="left">
+  <a href="https://www.credly.com/badges/fb9af511-0b41-42d7-ad84-f47d20521b6d/linked_in_profile" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect - Associate" style="max-width:15%;">
+  </a>
+  <a href="https://www.credly.com/badges/6ba7e83c-c8e7-442b-9534-3a255e9cede1" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" style="max-width:15%;">
+  </a>
+</p>
+
+<br>
+
+---
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=animedaisuki&theme=dark&hide_border=true" alt="GitHub Readme Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=animedaisuki&show_icons=true&theme=tokyonight" alt="GitHub Readme Stats" />
+</p>
