@@ -46,6 +46,8 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/> </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs"/> </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/nestjs-000000?style=for-the-badge&logo=nestjs&logoColor=red" alt="nestjs"/> </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> </a>
   <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql"/> </a>
 </p>
 
@@ -63,8 +65,10 @@
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/> </a>
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku"/> </a>
+  <a href="https://socket.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="WebSocket"/> </a>
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/> </a>
   <a href="https://ethereum.org/en/developers/docs/apis/javascript/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="ethers.js"/> </a>
+  <a><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="flutter"/></a>
 </p>
 
 <h3 align="left">Certifications</h3>
