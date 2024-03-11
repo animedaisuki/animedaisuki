@@ -18,7 +18,7 @@
 
 - 💬 Ask me about React, Nextjs, Nodejs, Redux, Graphql, Postgresql
 
-- 🚀 Skilled in smart contract development with Foundry and Web3 frontend integration.
+- 🚀 Skilled in smart contract development with Foundry and Web3 frontend integration
 
 - 📫 How to reach me **chicheng.xu@outlook.com**
 
