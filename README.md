@@ -74,7 +74,7 @@
 <h3 align="left">Certifications</h3>
 <p align="left">
   <a href="https://www.credly.com/badges/fb9af511-0b41-42d7-ad84-f47d20521b6d/linked_in_profile" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/size/220x220/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator">
+    <img src="https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator">
   </a>
   <a href="https://www.credly.com/badges/fb9af511-0b41-42d7-ad84-f47d20521b6d/linked_in_profile" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect - Associate">
