@@ -4,7 +4,7 @@
 <h3 align="center">Connect with me on:</h3>
 
 <p align="center">
-  <a href="https://www.chicheng.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="https://chicheng.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/chicheng-xu/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
