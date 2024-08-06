@@ -39,6 +39,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/> </a>
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss"/> </a>
   <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="mui"/> </a>
+  <a href="https://ant.design/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" alt="antd"/>
 </p>
 
 <h3 align="left">Backend Technologies</h3>
