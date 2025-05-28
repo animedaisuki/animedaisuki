@@ -20,8 +20,6 @@
 
 - 🚀 Skilled in full stack development
 
-- 📫 How to reach me **chicheng.xu@outlook.com**
-
 <br>
 
 ---
